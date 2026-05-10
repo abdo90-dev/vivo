@@ -2,6 +2,7 @@ const partners = [
   { name: "Uber", className: "text-[#111827]" },
   { name: "Bolt", className: "text-[#22c55e]" },
   { name: "Heetch", className: "text-[#ff2f8b]" },
+  { name: "Freenow", className: "text-[#ff2f8b]" },
 ];
 
 export function PartnersMarquee() {
